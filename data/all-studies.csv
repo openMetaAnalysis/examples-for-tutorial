@@ -1,0 +1,4 @@
+author,year,pmid,experimental_events,experimental_total,control_events,control_total,Risk.of.Bias,Trial.registration,Cofactor1
+Jones, 2008,   0,0,232,1,226,NA,NA,NA
+Smith, 2010,   0,0,275,0,275,NA,NA,NA
+Brown, 2004,   0,4,124,3,119,NA,NA,NA
