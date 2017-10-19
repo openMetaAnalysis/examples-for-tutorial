@@ -8,7 +8,7 @@ Background reference on interpreting meta-analyses:
 
 ## Monday (day 1)
 * Use the file I sent you ([example format](data/all-studies.csv)) that underlies the clinical outcome you selected in your Cochrane review, upload the file to [openMetaAnalysis editor](https://openmetaanalysis.ocpu.io/home/www/editor.html). Select the measure type (usually relative risk). Do you get the same numbers as Cochrane? Change the Hartung-Knapp setting if needed.
-* Search the individual studies at [PubMed](https://pubmed.gov) and add the PMIDs to the csv file. These will be needed for your update searches on Wednesday
+* Search the individual studies at [PubMed](https://pubmed.gov) and add the PMIDs to the csv file. Add to the data file whether each trial was registered (search for 'regis' in the abstracts and articles). These will be needed for your update searches on Wednesday
 
 ## Tuesday (day 2)
 Assessing non-clinical biases in studies:
